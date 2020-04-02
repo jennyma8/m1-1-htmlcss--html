@@ -22,8 +22,8 @@ c) [TRUE] `<ul></ul><img/><ol><li>one</li></ol>`
 
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 
-hello
-
+According to google, it is a software designed to enable impaired users to read what is displayed on screen.
+https://en.wikipedia.org/wiki/Screen_reader
 
 
 
@@ -37,7 +37,7 @@ href
 
 c) You want to sell designer hats. You need to receive orders from the user.
 
-label
+ol
 
 ## Q4 - Can a button be a child of a button? Explain your reasoning
 
