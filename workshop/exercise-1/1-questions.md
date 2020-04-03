@@ -53,46 +53,46 @@ div
 
 ## Q6 - What do the following achronyms stand for?
 
-a) `a`
+a) `a`anchor
 
 b) `ol`ordered list
 
 c) `ul`unordered list
 
-d) `li`
+d) `li`list item
 
-e) `tr`
+e) `tr`tag row
 
-f) `th`
+f) `th`tag header
 
-g) `td`
+g) `td`standard cell
 
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
 
-
+table
 
 ## Q8 - What is the difference between td and th?
 
-
+th is the header of the td cells
 
 ## Q9 - Which tag makes the text appear bigger: h1 or h3?
 
-
+h1
 
 ## Q10 - In which situation can you use self closing tags?
 
-
+no content
 
 ## Q11 - What is autofilling and why is it important?
 
-
+efficiency, helps the coder to remember
 
 ## Q12 - Which attributes are always present in an img element?
 
-
+src
 
 ## Q13 - Which attribute is always present for an anchor tag?
 
-
+href
 
