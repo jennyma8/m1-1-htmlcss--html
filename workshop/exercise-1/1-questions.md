@@ -30,17 +30,17 @@ https://en.wikipedia.org/wiki/Screen_reader
 ## Q3 - For each of the following cases, which tags will be needed?
 
 a) You want to create a webpage with the photos from your latest vacation
-src
+img src
 
 b) You want to create a website that lists all the art gallery websites in your city and links to their website.
-href
+a href
 
 c) You want to sell designer hats. You need to receive orders from the user.
 
-ol
+table
 
 ## Q4 - Can a button be a child of a button? Explain your reasoning
-
+The button tag is used to display a clickable button. Its descendants cannot be a clickable element
 
 
 
@@ -61,11 +61,11 @@ c) `ul`unordered list
 
 d) `li`list item
 
-e) `tr`tag row
+e) `tr`table row
 
-f) `th`tag header
+f) `th`table header
 
-g) `td`standard cell
+g) `td`table data
 
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
@@ -74,7 +74,7 @@ table
 
 ## Q8 - What is the difference between td and th?
 
-th is the header of the td cells
+th is the header of the td is the data
 
 ## Q9 - Which tag makes the text appear bigger: h1 or h3?
 
