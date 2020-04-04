@@ -3,47 +3,55 @@
 <body>
 <h1>Registration form</h1>
 <form>
-
-  <th>Username<input type="text" required />
-  <th>password<input type="text" required />
-
-<div>Email<input type="text" required />
+<div>
+  <label>Username</label>
+    <input type="text" required />
+  <label>password<input type="password" required /></label>
 </div>
+
+
+<label>Email</label>
+<input type="email" required />
+
 <div>Which taxi do you require?</div>
-
-  <input type="radio" id="Car"required />
-  <label for="Car">Car</label><br>
-  
-  <input type="radio" id="Van"required />
-    <label for="Van">Van</label><br>
+<div><label> 
+  <input type="radio" required />Car</label>
+  <label> </div>
+    <div><label><input type="radio" required />Van</label></div>
+    <div><label> 
+      <input type="radio" required />Tuk Tuk</label></div>
     
-  <input type="radio" id="Tuk Tuk"required />
-    <label for="Tuk Tuk">Tuk Tuk</label><br>
   
 
   
+  <div>Extras</div>
+
+ <label><input type="checkbox">Baby Seat<br></label>
   
-  Extras
-  </div>
-  <br>
+  
+  <label><input type="checkbox">Wheelchair Access</label>
  
-  <input type="checkbox">Baby Seat<br>
-  
-  <input type="checkbox" id="Wheelchair Access">
-  <label for="Wheelchair Access">Wheelchair Access</label><br>
-  
-  <input type="checkbox">Stock Tip
-  <br>
-  Pickup<select id="Select One">
-   <option value="Select One">Select One</option>
-      <option value="Taxi Office">Taxi Office</option>
-      <option value="Town Hall">Town Hall</option>
-      <option value="We'll Guess!">We'll Guess!</option>
+ <div>
+ <label> <input type="checkbox">Stock Tip</label>
+ </div>
+ 
+ <div>
+  <label>Pickup
+  <select>
+   <option selected="selected">Select One</option>
+      <option>Taxi Office</option>
+      <option>Town Hall</option>
+      <option>We'll Guess!</option>
    
-  </select><br>
-  Special
-  <textarea name="comment" form="usrform"></textarea><br>
-  <input type="submit" value="Submit">
+  </select></label>
+ </div>
+  <div>
+  <label>Special
+  <textarea></textarea></label>
+  </div>
+  
+ 
+ <button>Summit</button>
 </form>
 </body>
 </html>
